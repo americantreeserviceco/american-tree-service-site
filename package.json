@@ -1,0 +1,31 @@
+{
+  "name": "american-tree-service-site",
+  "version": "1.0.0",
+  "description": "This will become American Tree Colorado new home after migration, until then to be staging site",
+  "homepage": "https://github.com/americantreeserviceco/american-tree-service-site#readme",
+  "bugs": {
+    "url": "https://github.com/americantreeserviceco/american-tree-service-site/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/americantreeserviceco/american-tree-service-site.git"
+  },
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^19.3.0",
+    "tailwind": "^2.3.1",
+    "typescript": "^7.0.2"
+  },
+  "allowScripts": {
+    "core-js@2.6.12": true
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.6.1",
+    "postcss": "^8.5.28",
+    "tailwindcss": "^4.3.3"
+  }
+}
