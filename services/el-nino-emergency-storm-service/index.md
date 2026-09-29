@@ -1,16 +1,16 @@
 ---
 layout: page
-title: El Niño Emergency Storm Service - American Tree Service Co.
+title: El Niño Emergency Storm Service - American Tree Colorado
 permalink: /services/el-nino-emergency-storm-service/
 ---
 # El Niño Emergency Storm Service
 
 With the approach of the El Niño weather pattern, it's crucial to have a reliable 
-plan in place for your trees. At American Tree Service Co., we specialize in 
+plan in place for your trees. At American Tree Colorado, we specialize in 
 providing quick and effective emergency storm tree services to protect your property 
 and ensure your trees remain healthy and safe.
 
-## Why Choose American Tree Service Co. for El Niño?
+## Why Choose American Tree Colorado for El Niño?
 
 - **Expertise in Storm Damage**: Our team of experienced arborists is trained to 
 handle the unique challenges posed by El Niño weather conditions.
@@ -49,7 +49,7 @@ Our team can also help you prepare your trees for El Niño conditions. We offer
 consulting services to ensure your trees are as resilient as possible before the 
 storm hits.
 
-## Why Hire American Tree Service Co.?
+## Why Hire American Tree Colorado?
 
 - **Licensed and Insured**: Our arborists are licensed professionals, and we carry 
 comprehensive insurance to protect you and your property.
@@ -66,8 +66,8 @@ For more information or to schedule an El Niño emergency storm service, please
 contact us today. Our friendly and knowledgeable staff is ready to assist you.
 
 Phone: (303) 456-6898  
-Email: info@americantreeserviceco.com  
-Address: Golden, Colorado, 80401 USA
+Email: mandi@americantreecolorado.com  
+Address: Golden, Colorado 80401 USA
 
-Thank you for choosing American Tree Service Co. We are committed to helping you 
+Thank you for choosing American Tree Colorado We are committed to helping you 
 navigate the challenges of El Niño and ensure your trees are safe and healthy.

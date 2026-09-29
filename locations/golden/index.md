@@ -1,5 +1,5 @@
 ---
-title: American Tree Service - Golden, CO | Professional Tree Care Services
+title: American Tree Colorado - Golden, CO | Professional Tree Care Services
 layout: location
 description: Discover the best tree care services in Golden, CO. Our certified 
 arborists offer tree removal, pruning, planting, and more. Contact us today for a 
@@ -10,9 +10,9 @@ golden, fertilization golden, tree health management golden, emergency tree serv
 golden
 ---
 
-# American Tree Service - Golden, CO
+# American Tree Colorado - Golden, CO
 
-## Welcome to American Tree Service in Golden!
+## Welcome to American Tree Colorado in Golden!
 
 We are dedicated to providing top-notch tree care services to the residents and 
 businesses of Golden, CO. Our team of certified arborists is passionate about 
@@ -37,9 +37,9 @@ ensuring your trees are healthy, beautiful, and safe.
 
 ## Location & Contact Information
 
-- **Address:** Golden, CO 80401
+- **Address:** Golden, Colorado 80401 USA
 - **Phone:** (303) 456-6898
-- **Email:** info@americantreeserviceco.com
+- **Email:** mandi@americantreecolorado.com
 - **Hours:** Monday - Friday: 8:00 AM - 5:00 PM  
   Saturday & Sunday: Closed
 
@@ -50,7 +50,7 @@ and get a quote for your tree service needs.
 
 ## Testimonials
 
-> "American Tree Service was incredibly responsive and did a great job on removing a 
+> "American Tree Colorado was incredibly responsive and did a great job on removing a 
 large tree from my yard. Highly recommend!"  
 > - Jane Schroeder, Golden Resident
 

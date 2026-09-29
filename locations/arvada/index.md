@@ -1,20 +1,20 @@
 ---
-title: American Tree Colorado - Boulder, CO | Professional Tree Care Services
+title: American Tree Colorado - Arvada, CO | Professional Tree Care Services
 layout: location
-description: Get the best tree care services in Boulder, CO. Our certified arborists 
+description: Get the best tree care services in Arvada, CO. Our certified arborists 
 provide tree removal, pruning, planting, and more. Contact us for a free quote!
-keywords: tree service boulder co, tree care boulder, arborists boulder, tree 
-removal boulder, tree planting boulder, pruning boulder, stump grinding boulder, 
-irrigation boulder, fertilization boulder, tree health management boulder, emergency 
-tree service boulder
+keywords: tree service arvada co, tree care arvada, arborists arvada, tree removal 
+arvada, tree planting arvada, pruning arvada, stump grinding arvada, irrigation 
+arvada, fertilization arvada, tree health management arvada, emergency tree service 
+arvada
 ---
 
-# American Tree Colorado - Boulder, CO
+# American Tree Colorado - Arvada, CO
 
-## Welcome to American Tree Colorado in Boulder!
+## Welcome to American Tree Colorado in Arvada!
 
 We are dedicated to providing top-notch tree care services to the residents and 
-businesses of Boulder, CO. Our team of certified arborists is passionate about 
+businesses of Arvada, CO. Our team of certified arborists is passionate about 
 ensuring your trees are healthy, beautiful, and safe.
 
 ## Our Services
@@ -51,7 +51,7 @@ and get a quote for your tree service needs.
 
 > "American Tree Colorado was incredibly responsive and did a great job on removing a 
 large tree from my yard. Highly recommend!"  
-> - Jane Doe, Boulder Resident
+> - Jane Doe, Arvada Resident
 
 > "Their team was friendly and thorough. My trees look amazing after their pruning!" 
  
@@ -59,7 +59,7 @@ large tree from my yard. Highly recommend!"
 
 ## Map & Directions
 
-[View our location on Google Maps](https://www.google.com/maps/place/Boulder,+CO/)
+[View our location on Google Maps](https://www.google.com/maps/place/Arvada,+CO/)
 
 ## Additional Resources
 

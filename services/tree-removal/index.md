@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Tree Removal Services - American Tree Service Co.
+title: Tree Removal Services - American Tree Colorado
 permalink: /services/tree-removal/
 ---
 # Tree Removal Services
 
-At American Tree Service Co., we provide professional and reliable tree removal 
+At American Tree Colorado, we provide professional and reliable tree removal 
 services to homeowners and businesses in Colorado. Our team of experienced arborists 
 is committed to safely and efficiently removing trees that pose a threat to your 
 property, health, or well-being.
 
-## Why Choose American Tree Service Co. for Tree Removal?
+## Why Choose American Tree Colorado for Tree Removal?
 
 - **Professional Expertise**: Our team consists of licensed and insured arborists 
 who are trained in the latest tree removal techniques.
@@ -49,7 +49,7 @@ growth.
 If your property is cluttered with multiple trees that need removal, our team can 
 provide comprehensive property clearing services to restore your landscape.
 
-## Why Hire American Tree Service Co.?
+## Why Hire American Tree Colorado?
 
 - **Licensed and Insured**: Our arborists are licensed professionals, and we carry 
 comprehensive insurance to protect you and your property.
@@ -66,8 +66,8 @@ For more information or to schedule a tree removal service, please contact us to
 Our friendly and knowledgeable staff is ready to assist you.
 
 Phone: (303) 456-689  
-Email: info@americantreeserviceco.com  
-Address: Golden, Colorado, 80401 USA
+Email: mandi@americantreecolorado.com  
+Address: Golden, Colorado 80401 USA
 
-Thank you for choosing American Tree Service Co. We are committed to providing the 
+Thank you for choosing American Tree Colorado We are committed to providing the 
 highest level of tree removal services to keep your property safe and beautiful.

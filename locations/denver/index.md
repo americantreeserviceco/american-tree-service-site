@@ -1,5 +1,5 @@
 ---
-title: American Tree Service - Denver, CO | Professional Tree Care Services
+title: American Tree Colorado - Denver, CO | Professional Tree Care Services
 layout: location
 description: Get the best tree care services in Denver, CO. Our certified arborists 
 provide tree removal, pruning, planting, and more. Contact us for a free quote!
@@ -9,9 +9,9 @@ denver, fertilization denver, tree health management denver, emergency tree serv
 denver
 ---
 
-# American Tree Service - Denver, CO
+# American Tree Colorado - Denver, CO
 
-## Welcome to American Tree Service in Denver!
+## Welcome to American Tree Colorado in Denver!
 
 We are dedicated to providing top-notch tree care services to the residents and 
 businesses of Denver, CO. Our team of certified arborists is passionate about 
@@ -36,9 +36,9 @@ ensuring your trees are healthy, beautiful, and safe.
 
 ## Location & Contact Information
 
-- **Address:** 789 Oak St, Denver, CO 80202
-- **Phone:** (555) 123-4567
-- **Email:** denver@americantreecolorado.com
+- **Address:** Golden, Colorado 80401 USA
+- **Phone:** (303) 456-6898
+- **Email:** mandi@americantreecolorado.com
 - **Hours:** Monday - Friday: 8:00 AM - 5:00 PM  
   Saturday & Sunday: Closed
 
@@ -49,7 +49,7 @@ and get a quote for your tree service needs.
 
 ## Testimonials
 
-> "American Tree Service was incredibly responsive and did a great job on removing a 
+> "American Tree Colorado was incredibly responsive and did a great job on removing a 
 large tree from my yard. Highly recommend!"  
 > - Jane Doe, Denver Resident
 

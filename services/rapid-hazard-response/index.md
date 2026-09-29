@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Rapid Hazard Response - American Tree Service Co.
+title: Rapid Hazard Response - American Tree Colorado
 permalink: /services/rapid-hazard-response/
 ---
 # Rapid Hazard Response Services
 
-At American Tree Service Co., we understand that unexpected issues with trees can 
+At American Tree Colorado, we understand that unexpected issues with trees can 
 occur at any time. Our rapid hazard response services are designed to quickly and 
 efficiently address any problems that arise, ensuring the safety and health of your 
 property and trees.
 
-## Why Choose American Tree Service Co. for Rapid Hazard Response?
+## Why Choose American Tree Colorado for Rapid Hazard Response?
 
 - **Expertise in Hazard Management**: Our team of licensed arborists is trained to 
 handle a wide range of tree-related hazards, including fallen trees, dead branches, 
@@ -49,7 +49,7 @@ appropriate solutions to keep your property safe.
 In emergency situations, we offer urgent pruning services to address immediate 
 issues and prevent further damage.
 
-## Why Hire American Tree Service Co.?
+## Why Hire American Tree Colorado?
 
 - **Licensed and Insured**: Our arborists are licensed professionals, and we carry 
 comprehensive insurance to protect you and your property.
@@ -66,10 +66,9 @@ For more information or to schedule a rapid hazard response service, please cont
 us today. Our friendly and knowledgeable staff is ready to assist you.
 
 Phone: (303) 456-6898  
-Email: info@americantreeserviceco.com  
-Address: Golden, Colorado, 80401 USA
+Email: mandi@americantreecolorado.com  
+Address: Golden, Colorado 80401 USA
 
-Thank you for choosing American Tree Service Co. We are committed to providing the 
+Thank you for choosing American Tree Colorado We are committed to providing the 
 highest level of rapid hazard response services to keep your property safe and 
 beautiful.
- 

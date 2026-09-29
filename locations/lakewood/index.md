@@ -1,5 +1,5 @@
 ---
-title: American Tree Service - Lakewood, CO | Professional Tree Care Services
+title: American Tree Colorado - Lakewood, CO | Professional Tree Care Services
 layout: location
 description: Get the best tree care services in Lakewood, CO. Our certified 
 arborists provide tree removal, pruning, planting, and more. Contact us for a free 
@@ -10,9 +10,9 @@ irrigation lakewood, fertilization lakewood, tree health management lakewood,
 emergency tree service lakewood
 ---
 
-# American Tree Service - Lakewood, CO
+# American Tree Colorado - Lakewood, CO
 
-## Welcome to American Tree Service in Lakewood!
+## Welcome to American Tree Colorado in Lakewood!
 
 We are dedicated to providing top-notch tree care services to the residents and 
 businesses of Lakewood, CO. Our team of certified arborists is passionate about 
@@ -37,9 +37,9 @@ ensuring your trees are healthy, beautiful, and safe.
 
 ## Location & Contact Information
 
-- **Address:** Golden, CO 80401
+- **Address:** Golden, Colorado 80401 USA
 - **Phone:** (303) 456-6898
-- **Email:** info@americantreeserviceco.com
+- **Email:** mandi@americantreecolorado.com
 - **Hours:** Monday - Friday: 8:00 AM - 5:00 PM  
   Saturday & Sunday: Closed
 
@@ -50,7 +50,7 @@ and get a quote for your tree service needs.
 
 ## Testimonials
 
-> "American Tree Service was incredibly responsive and did a great job on removing a 
+> "American Tree Colorado was incredibly responsive and did a great job on removing a 
 large tree from my yard. Highly recommend!"  
 > - Jane Oliver, Lakewood Resident
 
@@ -67,5 +67,4 @@ large tree from my yard. Highly recommend!"
 - [Tree Care Tips](/resources/tree-care-tips)
 - [Our Guarantee](/resources/guarantee)
 - [Blog](/blog)
-
 

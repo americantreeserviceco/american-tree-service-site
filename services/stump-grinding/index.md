@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Stump Grinding Services - American Tree Service Co.
+title: Stump Grinding Services - American Tree Colorado
 permalink: /services/stump-grinding/
 ---
 # Stump Grinding Services
 
-At American Tree Service Co., we understand the importance of maintaining a tidy and 
+At American Tree Colorado, we understand the importance of maintaining a tidy and 
 attractive landscape. Our professional stump grinding services provide a quick and 
 effective solution for removing tree stumps after a tree has been removed or fallen. 
 Our goal is to ensure your property looks neat and ready for future growth.
 
-## Why Choose American Tree Service Co. for Stump Grinding?
+## Why Choose American Tree Colorado for Stump Grinding?
 
 - **Professional Expertise**: Our team of experienced arborists is trained in the 
 latest stump grinding techniques to provide the best possible service.
@@ -48,7 +48,7 @@ property, making it more inviting and attractive.
 Regular stump grinding helps prevent potential issues such as pest infestations and 
 fungal growth.
 
-## Why Hire American Tree Service Co.?
+## Why Hire American Tree Colorado?
 
 - **Licensed and Insured**: Our arborists are licensed professionals, and we carry 
 comprehensive insurance to protect you and your property.
@@ -65,9 +65,8 @@ For more information or to schedule a stump grinding service, please contact us
 today. Our friendly and knowledgeable staff is ready to assist you.
 
 Phone: (303) 456-6898  
-Email: info@americantreeserviceco.com  
-Address: Golden, Colorado, 80401 USA
+Email: mandi@americantreecolorado.com  
+Address: Golden, Colorado 80401 USA
 
-Thank you for choosing American Tree Service Co. We are committed to providing the 
+Thank you for choosing American Tree Colorado We are committed to providing the 
 highest level of stump grinding services to keep your property tidy and beautiful.
-

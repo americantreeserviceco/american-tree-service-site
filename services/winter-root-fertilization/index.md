@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Winter Root Fertilization - American Tree Service Co.
+title: Winter Root Fertilization - American Tree Colorado
 permalink: /services/winter-root-fertilization/
 ---
 # Winter Root Fertilization Services
 
-At American Tree Service Co., we believe in proactive care to ensure your trees stay 
+At American Tree Colorado, we believe in proactive care to ensure your trees stay 
 healthy and vibrant throughout the year. Our winter root fertilization services are 
 designed to nourish your trees during the dormant season, providing the essential 
 nutrients they need to thrive in the coming year.
 
-## Why Choose American Tree Service Co. for Winter Root Fertilization?
+## Why Choose American Tree Colorado for Winter Root Fertilization?
 
 - **Expertise in Tree Nutrition**: Our team of experienced arborists is 
 knowledgeable about the specific nutrient requirements of trees during the winter 
@@ -47,7 +47,7 @@ absorb the nutrients they need before the growing season begins.
 Regular winter root fertilization helps improve your trees' overall health, enhances 
 their resistance to pests and diseases, and increases their aesthetic value.
 
-## Why Hire American Tree Service Co.?
+## Why Hire American Tree Colorado?
 
 - **Licensed and Insured**: Our arborists are licensed professionals, and we carry 
 comprehensive insurance to protect you and your property.
@@ -64,9 +64,9 @@ For more information or to schedule a winter root fertilization service, please
 contact us today. Our friendly and knowledgeable staff is ready to assist you.
 
 Phone: (303) 456-6898  
-Email: info@americantreeserviceco.com  
-Address: Golden, Colorado, 80401 USA
+Email: mandi@americantreecolorado.com  
+Address: Golden, Colorado 80401 USA
 
-Thank you for choosing American Tree Service Co. We are committed to providing the 
+Thank you for choosing American Tree Colorado We are committed to providing the 
 highest level of winter root fertilization services to keep your trees healthy and 
 beautiful throughout the year.

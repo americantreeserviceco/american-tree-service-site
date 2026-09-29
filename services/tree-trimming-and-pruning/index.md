@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Tree Trimming and Pruning Services - American Tree Service Co.
+title: Tree Trimming and Pruning Services - American Tree Colorado
 permalink: /services/tree-trimming-and-pruning/
 ---
 # Tree Trimming and Pruning Services
 
-At American Tree Service Co., we are dedicated to maintaining the health, beauty, 
+At American Tree Colorado, we are dedicated to maintaining the health, beauty, 
 and safety of your trees. Our tree trimming and pruning services are designed to 
 enhance the overall appearance of your landscape while promoting strong, healthy 
 growth.
 
-## Why Choose American Tree Service Co. for Tree Trimming and Pruning?
+## Why Choose American Tree Colorado for Tree Trimming and Pruning?
 
 - **Professional Expertise**: Our team of licensed arborists is highly trained in 
 the latest tree care techniques and safety protocols.
@@ -57,7 +57,7 @@ property or the safety of your family and neighbors.
 Our regular pruning services help prevent potential issues such as tree damage, 
 disease, and pest infestations.
 
-## Why Hire American Tree Service Co.?
+## Why Hire American Tree Colorado?
 
 - **Licensed and Insured**: Our arborists are licensed professionals, and we carry 
 comprehensive insurance to protect you and your property.
@@ -74,10 +74,9 @@ For more information or to schedule a tree trimming and pruning service, please
 contact us today. Our friendly and knowledgeable staff is ready to assist you.
 
 Phone: (303) 456-6898  
-Email: info@americantreeserviceco.com  
-Address: Golden, Colorado, 80401 USA
+Email: mandi@americantreecolorado.com  
+Address: Golden, Colorado 80401 USA
 
-Thank you for choosing American Tree Service Co. We are committed to providing the 
+Thank you for choosing American Tree Colorado We are committed to providing the 
 highest level of tree trimming and pruning services to keep your landscape healthy 
 and beautiful.
-
