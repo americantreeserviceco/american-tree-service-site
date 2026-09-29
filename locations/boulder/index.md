@@ -24,7 +24,7 @@ ensuring your trees are healthy, beautiful, and safe.
 - **Stump Grinding**
 - **Tree Planting**
 - **Irrigation & Fertilization**
-- **Health & Disease Management**
+- **Plant Health Care**
 
 ## Why Choose Us?
 
