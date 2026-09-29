@@ -37,9 +37,9 @@ ensuring your trees are healthy, beautiful, and safe.
 
 ## Location & Contact Information
 
-- **Address:** 101 Maple St, Golden, CO 80401
-- **Phone:** (555) 789-0123
-- **Email:** golden@americantreecolorado.com
+- **Address:** Golden, CO 80401
+- **Phone:** (303) 456-6898
+- **Email:** info@americantreeserviceco.com
 - **Hours:** Monday - Friday: 8:00 AM - 5:00 PM  
   Saturday & Sunday: Closed
 
@@ -52,11 +52,11 @@ and get a quote for your tree service needs.
 
 > "American Tree Service was incredibly responsive and did a great job on removing a 
 large tree from my yard. Highly recommend!"  
-> - Jane Doe, Golden Resident
+> - Jane Schroeder, Golden Resident
 
 > "Their team was friendly and thorough. My trees look amazing after their pruning!" 
  
-> - John Smith, Local Business Owner
+> - John DaSanza, Local Business Owner
 
 ## Map & Directions
 

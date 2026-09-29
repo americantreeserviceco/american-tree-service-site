@@ -65,15 +65,9 @@ you can rest assured that we are always here when you need us.
 For more information or to schedule a tree removal service, please contact us today. 
 Our friendly and knowledgeable staff is ready to assist you.
 
-Phone: (123) 456-7890  
+Phone: (303) 456-689  
 Email: info@americantreeserviceco.com  
-Address: 123 Tree Lane, Colorado, USA
+Address: Golden, Colorado, 80401 USA
 
 Thank you for choosing American Tree Service Co. We are committed to providing the 
 highest level of tree removal services to keep your property safe and beautiful.
-```
-
-This SEO-optimized services page for tree removal includes relevant keywords, a 
-clear call to action, and detailed information about the services offered. It is 
-designed to help American Tree Service Co. stand out in search engine results and 
-attract potential customers looking for reliable tree removal services.

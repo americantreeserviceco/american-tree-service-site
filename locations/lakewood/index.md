@@ -37,9 +37,9 @@ ensuring your trees are healthy, beautiful, and safe.
 
 ## Location & Contact Information
 
-- **Address:** 789 Oak St, Lakewood, CO 80227
-- **Phone:** (555) 987-6543
-- **Email:** lakewood@americantreecolorado.com
+- **Address:** Golden, CO 80401
+- **Phone:** (303) 456-6898
+- **Email:** info@americantreeserviceco.com
 - **Hours:** Monday - Friday: 8:00 AM - 5:00 PM  
   Saturday & Sunday: Closed
 
@@ -52,11 +52,11 @@ and get a quote for your tree service needs.
 
 > "American Tree Service was incredibly responsive and did a great job on removing a 
 large tree from my yard. Highly recommend!"  
-> - Jane Doe, Lakewood Resident
+> - Jane Oliver, Lakewood Resident
 
 > "Their team was friendly and thorough. My trees look amazing after their pruning!" 
  
-> - John Smith, Local Business Owner
+> - Jose Sanchez, Local Business Owner
 
 ## Map & Directions
 
@@ -67,4 +67,5 @@ large tree from my yard. Highly recommend!"
 - [Tree Care Tips](/resources/tree-care-tips)
 - [Our Guarantee](/resources/guarantee)
 - [Blog](/blog)
+
 
