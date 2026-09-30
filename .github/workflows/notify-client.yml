@@ -1,0 +1,39 @@
+name: Notify Client on New Post 
+
+on:
+push:
+branches:
+- main
+paths:
+- '_posts/**' # Only trigger when files change inside the blog posts folder 
+
+jobs:
+send-sms:
+runs-on: ubuntu-latest
+steps:
+- name: Fetch repository history
+uses: actions/checkout@v4
+with:
+fetch-depth: 2 # Fetches previous commit so we can read the message 
+
+* name: Get latest commit message
+id: commit_msg
+run: |
+
+# Grabs the text from your automated Ollama commit message
+
+MSG=$(git log -1 --pretty=%B | head -n 1)
+echo "msg=MSG" >> GITHUB_OUTPUT
+
+* name: Send Text Message via Twilio
+uses: twilio-labs/actions-sms@v1
+with:
+from_number: ${{ secrets.TWILIO_PHONE_NUMBER }} # Your Twilio number or set up variable
+to_number: ${{ secrets.CLIENT_PHONE_NUMBER }} 
+
+### Customize your message body below
+
+message: "Hello! A new update has been published to the site: "${{ steps.commit_msg.outputs.msg }}"."
+env:
+TWILIO_ACCOUNT_SID: ${{ secrets.TWILIO_ACCOUNT_SID }}
+TWILIO_AUTH_TOKEN: ${{ secrets.TWILIO_AUTH_TOKEN }}

@@ -1,3 +1,52 @@
-# american-tree-service-site
-This will become American Tree Colorado new home after migration, until then to be staging site
+# American Tree Service Co. Website
+
+Welcome to the American Tree Service Co. website repository! This project is designed to provide an intuitive platform for customers to learn about and request our tree care services.
+
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Features
+
+- Service Descriptions: Detailed pages for each tree service offered.
+- Appointment Scheduling: Customers can request quotes and schedule appointments online.
+- Customer Reviews: Section for satisfied customers to share their experiences.
+- Responsive Design: Compatible with mobile devices and tablets.
+- Blog: Articles related to tree care tips, advice, and industry news.
+
+## Technologies Used
+
+This project is built using:
+
+- HTML5
+- CSS3
+- JavaScript
+- Jekyll for building and publishing blog posts
+- [Add other frameworks or libraries if applicable, such as React, Vue, Bootstrap, etc.]
+
+## Jekyll Build
+
+Install Jekyll and Bundler, then build or preview the site from the repository root:
+
+```bash
+gem install jekyll bundler
+jekyll build
+jekyll serve
+```
+
+The generated site is written to `_site/`. New blog posts belong in `_posts/` and should include Jekyll YAML front matter. Pushing to the `dev` branch triggers the GitHub Pages Jekyll deployment workflow.
+
+## Installation
+
+To get a local copy up and running, follow these steps:
+
+1. Clone the repo:
+   ```bash
+   git clone  https://github.com/americantreeserviceco/american-tree-service-site.git 
 
