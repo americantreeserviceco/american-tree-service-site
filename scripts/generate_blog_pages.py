@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate blog index and article pages from the _posts markdown files."""
+"""Generate the blog index from the _posts markdown files."""
 
 from __future__ import annotations
 
@@ -14,6 +14,13 @@ SITE_TITLE = "American Tree Colorado Blog"
 
 
 def parse_post_title(raw_text: str) -> str:
+    front_matter = re.match(r"\A---\s*\n(.*?)\n---\s*(?:\n|$)", raw_text, re.DOTALL)
+    if front_matter:
+        title_match = re.search(r"(?m)^title:\s*(.*?)\s*$", front_matter.group(1))
+        if title_match:
+            return title_match.group(1).strip().strip("\"'")
+        raw_text = raw_text[front_matter.end():]
+
     first_heading = raw_text.strip().splitlines()[0].strip()
     if first_heading.startswith("# "):
         return first_heading[2:].strip()
@@ -27,61 +34,6 @@ def slug_from_filename(filename: str) -> str:
     if len(parts) >= 3 and parts[0].isdigit():
         return "-".join(parts[3:]) if len(parts) > 3 else "-".join(parts[3:])
     return stem
-
-
-def format_inline(text: str) -> str:
-    text = escape(text)
-    text = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", text)
-    text = re.sub(r"\*(.+?)\*", r"<em>\1</em>", text)
-    text = re.sub(r"`(.+?)`", r"<code>\1</code>", text)
-    return text
-
-
-def markdown_to_html(markdown: str) -> str:
-    lines = markdown.strip().splitlines()
-    html_parts: list[str] = []
-    in_list = False
-
-    def flush_list() -> None:
-        nonlocal in_list
-        if in_list:
-            html_parts.append("</ul>")
-            in_list = False
-
-    for line in lines:
-        stripped = line.strip()
-        if not stripped:
-            flush_list()
-            continue
-
-        if stripped.startswith("# "):
-            flush_list()
-            html_parts.append(f"<h2>{format_inline(stripped[2:])}</h2>")
-            continue
-
-        if stripped.startswith("## "):
-            flush_list()
-            html_parts.append(f"<h3>{format_inline(stripped[3:])}</h3>")
-            continue
-
-        if stripped.startswith("- ") or stripped.startswith("* "):
-            if not in_list:
-                html_parts.append("<ul>")
-                in_list = True
-            html_parts.append(f"<li>{format_inline(stripped[2:])}</li>")
-            continue
-
-        if stripped.startswith(">"):
-            flush_list()
-            quote_text = format_inline(stripped[1:].strip())
-            html_parts.append(f"<blockquote>{quote_text}</blockquote>")
-            continue
-
-        flush_list()
-        html_parts.append(f"<p>{format_inline(stripped)}</p>")
-
-    flush_list()
-    return "\n".join(html_parts)
 
 
 def page_template(title: str, body: str, current_page: str = "") -> str:
@@ -180,9 +132,8 @@ def build_blog_pages() -> None:
         raw = path.read_text(encoding="utf-8")
         title = parse_post_title(raw)
         slug = slug_from_filename(path.name)
-        html_body = markdown_to_html(raw)
         url = f"{slug}.html"
-        posts.append({"title": title, "url": url, "slug": slug, "content": html_body})
+        posts.append({"title": title, "url": url, "slug": slug})
 
     BLOG_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -203,21 +154,7 @@ def build_blog_pages() -> None:
     )
     (BLOG_DIR / "index.html").write_text(index_html, encoding="utf-8")
 
-    for post in posts:
-        article_html = page_template(
-            post["title"],
-            f"""
-            <p><a href=\"./index.html\">← Back to blog</a></p>
-            <article class=\"article-body\">
-              {post['content']}
-            </article>
-            <p><a href=\"./index.html\">See more posts</a></p>
-            """,
-            current_page="article",
-        )
-        (BLOG_DIR / post["url"]).write_text(article_html, encoding="utf-8")
-
 
 if __name__ == "__main__":
     build_blog_pages()
-    print(f"Generated {len(list(POSTS_DIR.glob('*.md')))} blog pages in {BLOG_DIR}.")
+    print(f"Generated blog index for {len(list(POSTS_DIR.glob('*.md')))} posts in {BLOG_DIR}.")
