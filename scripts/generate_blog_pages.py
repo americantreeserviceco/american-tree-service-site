@@ -111,7 +111,8 @@ def page_template(title: str, body: str, current_page: str = "") -> str:
     .topbar {{ background: rgba(255,255,255,0.96); border-bottom: 1px solid rgba(29,77,42,0.12); position: sticky; top: 0; z-index: 10; }}
     .container {{ max-width: 1100px; margin: 0 auto; padding: 0 1.25rem; }}
     .nav {{ display: flex; align-items: center; justify-content: space-between; gap: 1.25rem; padding: 1rem 0; flex-wrap: wrap; }}
-    .brand {{ font-size: 1.5rem; font-weight: 800; color: var(--forest-dark); }}
+    .brand {{ display: flex; align-items: center; }}
+    .brand img {{ display: block; height: 56px; width: auto; }}
     .nav-links {{ display: flex; gap: 1.1rem; flex-wrap: wrap; align-items: center; }}
     .nav-links a {{ font-weight: 700; color: var(--forest-dark); }}
     .header-cta {{ display: inline-block; padding: 0.75rem 1.1rem; background: var(--green); color: white; border-radius: 999px; font-weight: 700; }}
@@ -134,7 +135,7 @@ def page_template(title: str, body: str, current_page: str = "") -> str:
 <body>
   <header class=\"topbar\">
     <div class=\"container nav\">
-      <a class=\"brand\" href=\"../index.html\">American Tree Colorado</a>
+      <a class=\"brand\" href=\"../index.html\"><img src=\"../assets/images/logo/AmericanTree_Logo_RGB.png\" alt=\"American Tree Colorado\"></a>
       <nav class=\"nav-links\" aria-label=\"Main navigation\">
         <a href=\"../index.html\">Home</a>
         <a href=\"../about/index.html\">About</a>

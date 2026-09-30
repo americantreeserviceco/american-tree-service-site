@@ -23,7 +23,8 @@
 		.container { width: min(100% - 2rem, 1100px); margin: 0 auto; }
 		.topbar { background: var(--white); border-bottom: 1px solid #dce6dc; }
 		.nav { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: 1rem 0; flex-wrap: wrap; }
-		.brand { color: var(--forest-dark); font-size: 1.35rem; font-weight: 800; }
+		.brand { display: flex; align-items: center; }
+		.brand img { display: block; height: 56px; width: auto; }
 		.nav-links, .footer-links { display: flex; gap: 1rem; flex-wrap: wrap; }
 		.nav-links a { color: var(--forest-dark); font-weight: 700; }
 		.header-cta { padding: .7rem 1rem; background: var(--green); color: var(--white); font-weight: 700; }
@@ -43,7 +44,7 @@
 <body>
 	<header class="topbar">
 		<div class="container nav">
-			<a class="brand" href="../index.html">{{ site.title | escape }}</a>
+			<a class="brand" href="../index.html"><img src="../assets/images/logo/AmericanTree_Logo_RGB.png" alt="American Tree Colorado"></a>
 			<nav class="nav-links" aria-label="Main navigation">
 				<a href="../index.html">Home</a>
 				<a href="../about/index.html">About</a>

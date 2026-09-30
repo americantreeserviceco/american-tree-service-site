@@ -69,6 +69,18 @@ img {
   font-size: 1.6rem;
 }
 
+.brand img {
+  display: block;
+  height: 56px;
+  width: auto;
+}
+
+.brand img {
+  display: block;
+  height: 56px;
+  width: auto;
+}
+
 .nav {
   display: flex;
   flex-wrap: wrap;
