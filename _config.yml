@@ -27,6 +27,8 @@ exclude:
   - "services/winter-root-fertilization/index.md"
   - "american-tree-service-website"
   - "standalone-blog-creator"
+  - "api"
+  - "supabase"
   - "scripts"
   - "generate_site"
   - "node_modules"
