@@ -10,8 +10,7 @@ defaults:
     values:
       layout: default
 exclude:
-  - "blog/why-healthy-tree-care-matters-for-colorado-propert.html"
-  - "blog/winter-root-fertilization.html"
+  - "blog"
   - "about/index.md"
   - "contact/index.md"
   - "locations/arvada/index.md"
@@ -25,7 +24,7 @@ exclude:
   - "services/tree-removal/index.md"
   - "services/tree-trimming-and-pruning/index.md"
   - "services/winter-root-fertilization/index.md"
-  - "american-tree-service-website"
+  - "archive"
   - "standalone-blog-creator"
   - "api"
   - "supabase"

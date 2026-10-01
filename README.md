@@ -32,12 +32,13 @@ This project is built using:
 
 ## Jekyll Build
 
-Install Jekyll and Bundler, then build or preview the site from the repository root:
+If a `Gemfile` is present in the repository, run `bundle install` before `jekyll build` to install the project’s bundled dependencies.
 
 ```bash
 gem install jekyll bundler
-jekyll build
-jekyll serve
+bundle install
+bundle exec jekyll build
+bundle exec jekyll serve
 ```
 
 The generated site is written to `_site/`. New blog posts belong in `_posts/` and should include Jekyll YAML front matter. Pushing to the `dev` branch triggers the GitHub Pages Jekyll deployment workflow.

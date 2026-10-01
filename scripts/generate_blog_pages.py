@@ -126,6 +126,64 @@ def page_template(title: str, body: str, current_page: str = "") -> str:
 """
 
 
+def markdown_to_html(markdown: str) -> str:
+    cleaned = re.sub(r"\A---\s*\n.*?\n---\s*(?:\n|$)", "", markdown, flags=re.DOTALL)
+    lines = cleaned.splitlines()
+    html_lines: list[str] = []
+    paragraph: list[str] = []
+    list_items: list[str] = []
+
+    def flush_paragraph() -> None:
+        nonlocal paragraph
+        if paragraph:
+            text = " ".join(part.strip() for part in paragraph if part.strip())
+            if text:
+                html_lines.append(f"<p>{render_inline(text)}</p>")
+            paragraph = []
+
+    def flush_list() -> None:
+        nonlocal list_items
+        if list_items:
+            html_lines.append("<ul>" + "".join(f"<li>{render_inline(item)}</li>" for item in list_items) + "</ul>")
+            list_items = []
+
+    def render_inline(text: str) -> str:
+        value = escape(text)
+        value = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", value)
+        value = re.sub(r"\*(.+?)\*", r"<em>\1</em>", value)
+        return value
+
+    for line in lines:
+        stripped = line.strip()
+        if not stripped:
+            flush_paragraph()
+            flush_list()
+            continue
+
+        if stripped.startswith("# "):
+            flush_paragraph()
+            flush_list()
+            html_lines.append(f"<h2>{render_inline(stripped[2:])}</h2>")
+        elif stripped.startswith("**") and stripped.endswith("**"):
+            flush_paragraph()
+            flush_list()
+            html_lines.append(f"<h2>{render_inline(stripped[2:-2])}</h2>")
+        elif stripped.startswith("* ") or stripped.startswith("- "):
+            flush_paragraph()
+            list_items.append(stripped[2:].strip())
+        elif stripped.startswith(">"):
+            flush_paragraph()
+            flush_list()
+            html_lines.append(f"<blockquote>{render_inline(stripped[1:].strip())}</blockquote>")
+        else:
+            flush_list()
+            paragraph.append(stripped)
+
+    flush_paragraph()
+    flush_list()
+    return "\n".join(html_lines)
+
+
 def build_blog_pages() -> None:
     posts = []
     for path in sorted(POSTS_DIR.glob("*.md")):
@@ -133,9 +191,14 @@ def build_blog_pages() -> None:
         title = parse_post_title(raw)
         slug = slug_from_filename(path.name)
         url = f"{slug}.html"
-        posts.append({"title": title, "url": url, "slug": slug})
+        posts.append({"title": title, "url": url, "slug": slug, "path": path})
 
     BLOG_DIR.mkdir(parents=True, exist_ok=True)
+
+    for post in posts:
+        article_html = markdown_to_html(post["path"].read_text(encoding="utf-8"))
+        article_page = page_template(post["title"], f"<h1>{escape(post['title'])}</h1><div class=\"article-body\">{article_html}</div>")
+        (BLOG_DIR / post["url"]).write_text(article_page, encoding="utf-8")
 
     index_items = []
     for post in posts:
@@ -157,4 +220,4 @@ def build_blog_pages() -> None:
 
 if __name__ == "__main__":
     build_blog_pages()
-    print(f"Generated blog index for {len(list(POSTS_DIR.glob('*.md')))} posts in {BLOG_DIR}.")
+    print(f"Generated blog pages for {len(list(POSTS_DIR.glob('*.md')))} posts in {BLOG_DIR}.")
